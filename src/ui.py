@@ -45,6 +45,18 @@ def display_region_selector(regions):
         list(regions.keys())
     )
 
+def display_topic_selector(df):
+    """
+    Display the topic selector and return the selected topic.
+    """
+
+    topics = sorted(df['Category'].dropna().unique())
+    topics = ["All Topics"] + topics
+    return st.sidebar.selectbox(
+        "Choose a Historical Topic:",
+        topics
+    )
+
 def display_map(m):
     """
     Render the Folium map in Streamlit.

@@ -1,12 +1,14 @@
 import streamlit as st
 from src.data_loader import load_data
 from src.map_builder import build_historical_map, REGIONS
+from src.data_processor import filter_data
 
 from src.ui import (
     configure_page,
     display_year_selector, 
     display_year_title, 
     display_region_selector, 
+    display_topic_selector,
     display_map
 )
 
@@ -23,15 +25,12 @@ selected_year = display_year_selector()
 # Display the currently selected year neatly to the user
 display_year_title(selected_year)
 
-# 4. Filter data in real-time based on the exact slider position
-# A city/event is shown only if the selected year falls between its Start and End years
-filtered_df = df[
-    (df['Start_Year'] <= selected_year) & 
-    (df['End_Year'] >= selected_year)
-    ]
-
 #  2. Add a dropdown selection menu to the Streamlit sidebar
-selected_region = st.sidebar.selectbox("Choose Map Focus Region:", list(REGIONS.keys()))
+selected_topic = display_topic_selector(df)
+
+selected_region = display_region_selector(REGIONS)
+
+filtered_df = filter_data(df, selected_year, selected_topic)
 
 # 7. Render the map in the browser
 region = REGIONS[selected_region]
