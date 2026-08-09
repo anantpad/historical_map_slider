@@ -61,7 +61,7 @@ def display_year_title(selected_year):
         )
     else:
         st.subheader(
-            f"Current Map View: {selected_year} AD"
+            f"Current Map View: {selected_year} CE"
         )
 
 def display_type_selector(df):
