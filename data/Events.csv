@@ -1,12 +1,332 @@
-﻿Name|Start_Year|End_Year|Latitude|Longitude|Info|Category
-Rome (Republic)|-509|27|41.8902|12.4922|Rising power in Italy|
-Pataliputra (Sunga Capital)|-185|-73|25.611|85.1414|Imperial capital in Northern India|
-Alexandria|-331|641|31.2001|29.9187|Center of science & culture|
-Carthage|-814|-146|36.8529|10.3217|Phoenician trade superpower|
-Rome (Empire Hub)|27|476|41.8902|12.4922|Capital of the vast Roman Empire|
-Pompeii (Destroyed)|79|79|40.7512|14.487|Buried completely by Mt. Vesuvius|
-Herculaneum (Destroyed)|79|79|40.806|14.349|Buried by pyroclastic flows|
-Hopewell Core (Mound Builders)|-200|500|39.3|-82.9|Building massive geometric earthworks and continental trade routes|
-Teotihuacán (Rising Metropolis)|-100|750|19.6|-98.8|Rapidly expanding urban grid and early pyramid construction|
-Basketmaker II Culture|-500|500|36.5|-109.5|Transitioning to sedentary maize farming and master basket weaving|
-Old Bering Sea Marine Hunters|-500|700|65.6|-168|Sophisticated walrus and whale hunters using carved ivory tools|
+﻿Name|Start_Year|End_Year|Latitude|Longitude|Info|Type|Category
+Rome (Republic)|-509|27|41.8902|12.4922|Rising power in Italy|Place|City
+Pataliputra (Sunga Capital)|-185|-73|25.611|85.1414|Imperial capital in Northern India|Place|City
+Alexandria|-331|641|31.2001|29.9187|Center of science & culture|Place|City
+Carthage|-814|-146|36.8529|10.3217|Phoenician trade superpower|Place|City
+Rome (Empire Hub)|27|476|41.8902|12.4922|Capital of the vast Roman Empire|Place|City
+Pompeii (Destroyed)|79|79|40.7512|14.487|Buried completely by Mt. Vesuvius|Place|City
+Herculaneum (Destroyed)|79|79|40.806|14.349|Buried by pyroclastic flows|Place|City
+Hopewell Core (Mound Builders)|-200|500|39.3|-82.9|Building massive geometric earthworks and continental trade routes|Culture|Archaeological Culture
+Teotihuacán (Rising Metropolis)|-100|750|19.6|-98.8|Rapidly expanding urban grid and early pyramid construction|Place|City
+Basketmaker II Culture|-500|500|36.5|-109.5|Transitioning to sedentary maize farming and master basket weaving|Culture|Archaeological Culture
+Old Bering Sea Marine Hunters|-500|700|65.6|-168|Sophisticated walrus and whale hunters using carved ivory tools|Culture|Archaeological Culture
+Adi Shankaracharya|788|820|10.8505|76.2711|Advaita Vedanta philosopher and teacher traditionally associated with Kaladi in Kerala; dates are approximate|Person|Saint
+Ramanuja|1017|1137|13.3409|80.0707|Major Vaishnava philosopher and proponent of Vishishtadvaita Vedanta|Person|Saint
+Basavanna|1131|1167|15.3697|75.1240|Kannada philosopher, poet and social reformer associated with the Lingayat tradition|Person|Saint
+Dnyaneshwar|1275|1296|18.5204|73.8567|Marathi saint-poet and author of the Dnyaneshwari; associated with the Varkari tradition|Person|Saint
+Namdev|1270|1350|18.5167|73.8500|Marathi saint-poet and important figure in the Varkari devotional tradition|Person|Saint
+Kabir|1440|1518|25.3176|82.9739|Mystic poet whose teachings emphasized devotion and transcended religious divisions; dates are approximate|Person|Saint
+Vallabhacharya|1479|1531|16.6950|74.2310|Philosopher and founder of the Pushtimarg tradition of Vaishnavism|Person|Saint
+Chaitanya Mahaprabhu|1486|1534|23.6830|87.6855|Bengali Vaishnava saint and major proponent of devotional Krishna worship|Person|Saint
+Tulsidas|1532|1623|25.3176|82.9739|Hindi devotional poet best known for the Ramcharitmanas; dates are traditional and debated|Person|Saint
+Mirabai|1498|1546|26.9124|75.7873|Rajput devotional poet and major figure in the Krishna bhakti tradition; dates are approximate|Person|Saint
+Eknath|1533|1599|19.9975|75.7685|Marathi saint-poet and scholar associated with the Varkari tradition|Person|Saint
+Samarth Ramdas|1608|1681|17.9240|74.1200|Marathi saint-poet and spiritual teacher associated with the Ram and Hanuman traditions|Person|Saint
+Tukaram|1608|1649|18.5295|73.8745|Marathi Varkari saint-poet renowned for his devotional abhangas dedicated to Vithoba|Person|Saint
+Gautama Buddha|-563|-483|26.7271|85.9240|Founder of Buddhism; traditionally born at Lumbini and attained enlightenment at Bodh Gaya before teaching across northern India|Person|Saint
+Mahavira|-599|-527|25.6093|85.1235|Twenty-fourth Tirthankara of Jainism and contemporary of the Buddha; dates are traditional and historically debated|Person|Saint
+Kanakadasa|1509|1609|15.1629|76.9370|Kannada saint-poet and devotee associated with the Haridasa tradition and Krishna devotion; dates are approximate|Person|Saint
+Purandara Dasa|1484|1564|15.3173|75.7139|Kannada saint-poet and major figure of the Haridasa tradition, traditionally regarded as the father of Carnatic music; dates are approximate|Person|Saint
+Patanjali|-200|-150|11.0168|76.9558|Ancient Indian scholar traditionally associated with the Yoga Sutras; his historical identity and dates remain debated|Person|Philosopher
+Raghavendra Swami|1595|1671|15.2750|77.3750|Madhva tradition saint and Dvaita Vedanta scholar whose Brindavana at Mantralayam became an important pilgrimage center|Person|Saint
+Andal|750|800|8.7270|77.7289|Tamil Vaishnava saint-poet and one of the twelve Alvars, renowned for the Tiruppavai and Nachiyar Tirumoli; traditionally associated with Srivilliputhur|Person|Saint
+Anga|-600|-400|25.2600|87.0000|Mahajanapada of eastern India; its capital was Champa and it was eventually incorporated into Magadha|Polity|Mahajanapada
+Assaka|-600|-400|18.6700|81.0000|Southernmost of the traditional sixteen Mahajanapadas, located around the Godavari region; its capital was Potana or Paudanya|Polity|Mahajanapada
+Avanti|-600|-320|23.1765|75.7885|Major western Indian Mahajanapada centered around Ujjain and Mahishmati; later incorporated into the expanding Magadhan empire|Polity|Mahajanapada
+Chedi|-600|-400|24.0000|80.0000|Ancient Mahajanapada located in central India, associated with the Bundelkhand region|Polity|Mahajanapada
+Gandhara|-600|-400|34.0000|72.0000|Northwestern Mahajanapada centered around Taxila and Pushkalavati; an important center of trade and learning|Polity|Mahajanapada
+Kashi|-600|-400|25.3176|82.9739|Mahajanapada centered on Varanasi, one of the major political powers of northern India|Polity|Mahajanapada
+Kosala|-600|-400|27.5100|82.0500|Major Mahajanapada of northern India centered in the Awadh region; its important cities included Shravasti and Saketa|Polity|Mahajanapada
+Kuru|-600|-400|29.5000|76.9000|Ancient Mahajanapada in the western Ganges-Yamuna region associated with the later Vedic Kuru realm|Polity|Mahajanapada
+Matsya|-600|-400|26.4500|76.0000|Mahajanapada located in the region of present-day Rajasthan, with Viratanagara as its principal center|Polity|Mahajanapada
+Magadha|-600|-320|25.6100|85.1400|Powerful eastern Indian Mahajanapada centered in the lower Ganges region; it became the foundation of the Mauryan Empire|Polity|Mahajanapada
+Malla|-600|-400|26.7600|83.8400|Republican Mahajanapada in the eastern Gangetic region; Kushinagar and Pava were important centers|Polity|Mahajanapada
+Panchala|-600|-400|28.0000|79.0000|Mahajanapada in the Ganges-Yamuna region, divided into northern and southern Panchala|Polity|Mahajanapada
+Surasena|-600|-400|27.5000|77.6700|Mahajanapada centered around Mathura and the Yamuna region|Polity|Mahajanapada
+Vajji|-600|-400|26.1200|85.3900|Confederation of clans in northern Bihar, with the Licchavis as a prominent constituent; Vaishali was its major center|Polity|Mahajanapada
+Vatsa|-600|-400|25.4500|81.8500|Mahajanapada centered at Kaushambi near the Yamuna; an important political and commercial power|Polity|Mahajanapada
+Kamboja|-600|-400|35.0000|71.0000|Northwestern Mahajanapada associated with the region around the Hindu Kush and modern Afghanistan-Pakistan borderlands|Polity|Mahajanapada
+Maurya Empire|-322|-185|25.6100|85.1400|First major empire to unify much of the Indian subcontinent; founded by Chandragupta Maurya and expanded greatly under Ashoka|Polity|Empire
+Gupta Empire|320|550|25.6100|85.1400|Major ancient Indian empire associated with advances in mathematics, astronomy, literature, science, art, and Hindu cultural development; centered initially in the Gangetic plain|Polity|Empire
+Indus Valley Civilization|-3300|-1300|30.9000|72.9000|Bronze Age civilization centered in the Indus River basin, known for urban planning, drainage systems, trade, and distinctive material culture|Civilization|Civilization
+Achaemenid Empire|-550|-330|31.5204|74.3587|Persian imperial power that extended into northwestern India, particularly Gandhara and the Indus region, during the late 6th and 5th centuries BCE|Polity|Empire
+Gandhara|-600|-200|34.0000|72.0000|Ancient region and kingdom centered in present-day northwestern Pakistan and eastern Afghanistan; an important center of trade, Buddhism, and Hellenistic culture|Geography|Region
+Bimbisara|-543|-491|25.6100|85.1400|King of Magadha and an important early ruler who expanded Magadhan power during the lifetime of Siddhartha Gautama|Person|Ruler
+Siddhartha Gautama|-563|-483|27.4848|83.2760|Historical founder of Buddhism, traditionally born at Lumbini and associated with enlightenment at Bodh Gaya and teaching at Sarnath|Person|Saint
+Vardhamana Mahavira|-599|-527|25.6093|85.1235|Twenty-fourth Tirthankara of Jainism and contemporary of the Buddha; traditionally known as Mahavira|Person|Saint
+Charaka|-200|-100|27.1767|78.0081|Ancient Indian physician traditionally associated with the Charaka Samhita, a foundational text of Ayurveda|Person|Scientist
+Sushruta|-600|-500|25.3176|82.9739|Ancient Indian physician traditionally associated with the Sushruta Samhita and important early surgical knowledge|Person|Scientist
+Vagbhata|550|650|20.5937|78.9629|Classical Ayurvedic physician traditionally associated with the Ashtanga Hridaya and Ashtanga Sangraha|Person|Scientist
+Valmiki|-500|-100|27.1767|78.0081|Traditional author of the Ramayana and an important figure in Sanskrit literary tradition; historical dating is uncertain|Person|Literature
+Ajatashatru|-492|-460|25.6100|85.1400|King of Magadha who expanded Magadhan power and is associated with conflicts involving Kosala and the Vajji confederacy|Person|Ruler
+Chandragupta Maurya|-321|-297|25.6100|85.1400|Founder of the Maurya Empire who established a large empire centered on Pataliputra|Person|Ruler
+Ashoka the Great|-268|-232|25.6100|85.1400|Mauryan emperor whose reign saw major territorial expansion followed by his promotion of Buddhism, ethical governance, and religious tolerance|Person|Ruler
+Alexander the Great|-336|-323|34.0151|71.5249|Macedonian conqueror whose campaigns reached the northwestern Indian subcontinent in 326 BCE|Person|Ruler
+Seleucus I Nicator|-305|-281|32.0000|71.0000|Founder of the Seleucid Empire who fought Chandragupta Maurya and later concluded a treaty with the Mauryan ruler|Person|Ruler
+Eucratides I|-171|-145|34.5000|69.2000|Powerful Greco-Bactrian king who expanded his territory across parts of Central and South Asia|Person|Ruler
+Menander I|-165|-130|34.0000|72.0000|Indo-Greek king known as Milinda in Buddhist literature and associated with the dialogue recorded in the Milinda Panha|Person|Ruler
+Greco-Bactrian Kingdom|-256|-125|36.5000|69.0000|Hellenistic kingdom centered in Bactria that expanded into parts of Central and South Asia after the fragmentation of the Seleucid Empire|Polity|Kingdom
+Bactria|-600|-100|36.7000|67.1000|Ancient region centered around the Oxus River, corresponding broadly to parts of modern Afghanistan, Uzbekistan, and Tajikistan|Geography|Region
+Kushan Empire|30|375|34.5000|69.2000|Major Central and South Asian empire that connected India with Central Asia and facilitated trade and the spread of Buddhism|Polity|Empire
+Hindu Kush|-1000|2026|35.0000|71.0000|Major mountain range connecting Central and South Asia and historically serving as an important corridor between the Indian subcontinent and Central Asia|Geography|Region
+White Huns|450|565|34.5000|69.2000|Hephthalite or White Hun powers that invaded and controlled parts of northwestern and northern India during the 5th and 6th centuries CE|Polity|Empire
+Charvaka|-600|500|25.0000|80.0000|Materialist philosophical tradition of ancient India that emphasized direct perception and rejected supernatural explanations and Vedic authority|Philosophy|Philosophy
+Chalukya Dynasty|543|753|16.8302|75.7100|Major Deccan dynasty whose early rulers established power from Vatapi, modern Badami|Polity|Dynasty
+Pulakeshin I|543|566|15.9186|75.6761|Founder of the early Chalukya power centered at Vatapi, modern Badami, in the Deccan|Person|Ruler
+Maukhari Dynasty|550|700|26.4600|80.3500|North Indian dynasty centered around Kannauj that became an important political power during the 6th and 7th centuries CE|Polity|Dynasty
+Chola Dynasty|-300|1279|10.7905|79.1378|Ancient and medieval Tamil dynasty whose later rulers developed a powerful South Indian state and maritime network|Polity|Dynasty
+Muhammad bin Qasim|695|715|30.3753|69.3451|Arab military commander who conquered Sindh in the early 8th century, establishing an early lasting Islamic political presence in the Indian subcontinent|Person|Ruler
+Babur|1483|1530|41.2995|69.2401|Founder of the Mughal Empire who defeated Ibrahim Lodi at the First Battle of Panipat in 1526|Person|Ruler
+Humayun|1508|1556|28.6139|77.2090|Second Mughal emperor and son of Babur who temporarily lost and later regained the Mughal throne|Person|Ruler
+Aurangzeb|1618|1707|23.0225|72.5714|Sixth Mughal emperor whose long reign saw major territorial expansion and prolonged conflicts across the Indian subcontinent|Person|Ruler
+Chhatrapati Shivaji Maharaj|1630|1680|18.5204|73.8567|Founder of the Maratha state who established a powerful regional kingdom in western India and was crowned Chhatrapati in 1674|Person|Ruler
+Tipu Sultan|1751|1799|12.2958|76.6394|Ruler of the Kingdom of Mysore who resisted British expansion and introduced military and administrative innovations|Person|Ruler
+Sumer|-4500|-1900|31.3209|45.6394|One of the earliest urban civilizations of Mesopotamia, associated with the development of cities, writing, complex administration, and monumental architecture in southern Mesopotamia|Civilization|Civilization
+Ancient Egypt|-3100|-30|26.8206|30.8025|Ancient civilization centered on the Nile Valley, known for centralized kingship, monumental architecture, hieroglyphic writing, mathematics, medicine, religion, and a continuous cultural tradition spanning more than three millennia|Civilization|Civilization
+Indus Valley Civilization|-3300|-1300|30.9000|72.9000|Bronze Age civilization centered in the Indus River basin, known for planned cities, drainage systems, trade networks, standardized weights, and distinctive material culture|Civilization|Civilization
+Norte Chico Civilization|-3500|-1800|-10.7500|-77.5000|One of the earliest known civilizations in the Americas, centered along the north-central coast of Peru and characterized by monumental ceremonial architecture and large settlements|Civilization|Civilization
+Akkadian Empire|-2334|-2154|33.3152|44.3661|One of the earliest known empires, founded by Sargon of Akkad; it unified much of Mesopotamia and established Akkadian as an important administrative and literary language|Polity|Empire
+Xuanzang (Hiuen Tsang)|602|664|34.2658|108.9541|Chinese Buddhist monk, scholar, and traveler who journeyed to India in the 7th century, studied at Nalanda, and recorded detailed observations of Indian kingdoms, Buddhism, and society|Person|Traveler
+Ibn Battuta|1304|1368|34.0209|-6.8416|Moroccan scholar and traveler whose extensive journeys across Africa, the Middle East, Central Asia, India, and Southeast Asia were recorded in the Rihla|Person|Traveler
+Spartacus|-111|-71|40.6361|15.8000|Thracian gladiator and leader of the major slave uprising against the Roman Republic known as the Third Servile War|Person|Military Leader
+Julius Caesar|-100|-44|41.9028|12.4964|Roman general, statesman, and author who played a decisive role in the transformation of the Roman Republic and was assassinated in 44 BCE|Person|Military Leader
+Mark Antony|-83|-30|41.9028|12.4964|Roman general and statesman who was a leading supporter of Julius Caesar and later formed the Second Triumvirate before his conflict with Octavian|Person|Ruler
+Cleopatra VII|-69|-30|31.2001|29.9187|Last active ruler of the Ptolemaic Kingdom of Egypt, known for her political alliances with Julius Caesar and Mark Antony|Person|Ruler
+Third Dynasty of Ur (Ur III)|-2112|-2004|30.9626|46.1038|Mesopotamian dynasty centered at Ur; known for centralized administration, extensive record keeping, monumental architecture, and one of the earliest known bureaucratic states|Polity|Dynasty
+Maya Civilization|-2000|1500|17.0000|-89.0000|Mesoamerican civilization known for monumental cities, sophisticated mathematics and astronomy, hieroglyphic writing, calendrical systems, and complex political societies|Civilization|Civilization
+Ancient Roman Civilization|-753|476|41.9028|12.4964|Ancient Mediterranean civilization that developed from the Roman city-state into a vast imperial system and profoundly influenced law, government, engineering, language, and culture|Civilization|Civilization
+Ancient Greek Civilization|-1200|146|37.9838|23.7275|Ancient Mediterranean civilization associated with Greek city-states, philosophy, science, literature, art, political experimentation, and the Hellenistic world|Civilization|Civilization
+Olmec Civilization|-1600|-400|18.2833|-94.4167|Early major Mesoamerican civilization associated with monumental stone heads, ceremonial centers, distinctive art, and cultural influences on later Mesoamerican societies|Civilization|Civilization
+Viking Age|793|1066|59.9139|10.7522|Period of Scandinavian expansion, exploration, trade, raiding, settlement, and cultural exchange across Europe and the North Atlantic|Culture|Viking Age
+Persian Civilization|-550|651|32.4279|53.6880|Major Iranian civilization whose traditions developed through successive Persian empires and profoundly influenced administration, literature, art, religion, and culture across West and Central Asia|Civilization|Persian
+Ancient Iranian Civilization|-3000|651|32.4279|53.6880|Long-standing civilization of the Iranian plateau encompassing successive cultures and states including Elam, the Median kingdom, and Persian empires|Civilization|Iranian
+Ramayana|-500|300|25.3176|82.9739|Ancient Indian Sanskrit epic traditionally attributed to Valmiki, centered on the story of Rama, Sita, and the struggle between Rama and Ravana; composed and transmitted over several centuries|Literature|Epic
+Mahabharata|-400|400|25.3176|82.9739|Ancient Indian Sanskrit epic concerning the conflict between the Pandavas and Kauravas and containing the Bhagavad Gita; developed over several centuries through oral and textual traditions|Literature|Epic
+Arabian Nights|800|1400|33.3152|44.3661|Collection of Middle Eastern and South Asian stories compiled and transmitted over centuries, including tales such as Aladdin, Ali Baba, and the voyages of Sinbad|Literature|Story Collection
+Aryabhata|476|550|25.6100|85.1400|Indian mathematician and astronomer traditionally associated with Aryabhatiya; made influential contributions to mathematics, astronomy, and the calculation of pi|Person|Scientist
+Panini|-500|-400|32.0800|74.5000|Ancient Indian grammarian traditionally associated with the Ashtadhyayi, a highly systematic work on Sanskrit grammar and one of the foundational works of linguistic analysis|Person|Scholar
+Kautilya (Chanakya)|-350|-283|25.6100|85.1400|Ancient Indian scholar, political thinker, and strategist traditionally associated with the Arthashastra and with advising Chandragupta Maurya; traditionally identified with Chanakya and Vishnugupta|Person|Scholar
+Panchatantra|-300|300|25.3176|83.0100|Ancient Indian collection of interconnected animal fables and moral stories traditionally associated with Sanskrit literary tradition; its precise date and authorship are uncertain|Literature|Text
+Mesopotamia|-6000|539|32.0000|44.0000|Historical region between the Tigris and Euphrates rivers and a major center of early urban civilization, writing, states, law, and complex societies including Sumer, Akkad, Babylon, and Assyria|Geography|Region
+Babylonian Civilization|-1894|-539|32.5420|44.4210|Mesopotamian civilization centered on Babylon, associated with important developments in law, mathematics, astronomy, literature, and urban culture|Civilization|Babylonian
+Assyrian Empire|-2500|-609|36.3590|43.1520|Powerful Mesopotamian civilization and imperial state centered in northern Mesopotamia, known for military organization, administration, monumental architecture, and extensive written records|Polity|Empire
+Narmer|-3150|-3120|29.9792|31.1342|Early Egyptian ruler traditionally associated with the political unification of Upper and Lower Egypt and the beginning of the dynastic period|Person|Ruler
+Djoser|-2670|-2650|29.8711|31.2165|Pharaoh of the Third Dynasty whose Step Pyramid at Saqqara is one of the earliest monumental stone structures in Egypt|Person|Ruler
+Khufu|-2589|-2566|29.9792|31.1342|Pharaoh of the Fourth Dynasty traditionally associated with the construction of the Great Pyramid at Giza|Person|Ruler
+Hatshepsut|-1479|-1458|25.7400|32.6014|Powerful female pharaoh of the Eighteenth Dynasty known for major building projects and an extensive trading expedition to Punt|Person|Ruler
+Akhenaten|-1353|-1336|27.6700|30.9000|Eighteenth Dynasty pharaoh who promoted the worship of the Aten and established the new capital city of Akhetaten|Person|Ruler
+Tutankhamun|-1332|-1323|27.6700|30.9000|Young Eighteenth Dynasty pharaoh whose largely intact tomb discovered in 1922 became one of the most famous archaeological discoveries in history|Person|Ruler
+Ramesses II|-1279|-1213|25.7400|32.6014|One of the most prominent pharaohs of the New Kingdom, known for extensive building projects, military campaigns, and the temples at Abu Simbel|Person|Ruler
+Cleopatra VII|-69|-30|31.2001|29.9187|Last active ruler of the Ptolemaic Kingdom of Egypt, known for her political alliances with Julius Caesar and Mark Antony|Person|Ruler
+Step Pyramid of Djoser|-2670|-2650|29.8711|31.2165|Monumental pyramid complex at Saqqara built for Pharaoh Djoser; widely regarded as the earliest large-scale stone pyramid in Egypt|Monument|Architecture
+Great Pyramid of Giza|-2560|-2540|29.9792|31.1342|Largest of the Giza pyramids, built as the tomb of Pharaoh Khufu and the only surviving Wonder of the Ancient World|Monument|Architecture
+Pyramid of Khafre|-2558|-2532|29.9753|31.1304|Second-largest pyramid at Giza, traditionally attributed to Pharaoh Khafre and still retaining part of its original limestone casing near the summit|Monument|Architecture
+Susa|-4200|638|32.1896|48.2578|Ancient city in southwestern Iran and one of the world's important early urban centers; associated with the Elamite civilization and later incorporated into major Mesopotamian and Persian empires|Place|Archaeological Site
+Byblos|-5000|2026|34.1211|35.6511|Ancient Phoenician coastal city in present-day Lebanon and one of the oldest continuously inhabited urban sites; an important center of trade and the ancient Mediterranean world|Place|Archaeological Site
+Çatalhöyük|-7500|-5700|37.6667|32.8289|Large Neolithic settlement in central Anatolia characterized by densely packed houses, wall paintings, figurines, and early evidence of settled agricultural life|Place|Archaeological Site
+Jericho|-9600|2026|31.8700|35.4444|Ancient settlement in the Jordan Valley with some of the earliest known evidence of permanent settlement, agriculture, monumental construction, and defensive architecture|Place|Archaeological Site
+Pyramid of Menkaure|-2530|-2500|29.9727|31.1284|Smallest of the three principal pyramids at Giza, traditionally attributed to Pharaoh Menkaure|Monument|Architecture
+Ur|-3800|-300|30.9626|46.1038|Ancient Mesopotamian city in southern Iraq and an important center of Sumerian civilization; later became the capital of the powerful Third Dynasty of Ur|Place|Archaeological Site
+Uruk|-4000|-300|31.3220|45.6380|One of the world's earliest major cities and an important center of Sumerian civilization, associated with early urbanization, monumental architecture, administration, and writing|Place|Archaeological Site
+Babylon|-1894|-141|32.5420|44.4210|Major Mesopotamian city on the Euphrates and capital of the Babylonian kingdoms; associated with Hammurabi, monumental architecture, mathematics, astronomy, and the famous Ishtar Gate|Place|Archaeological Site
+Nineveh|-1800|-612|36.3719|43.1528|Ancient Assyrian city on the Tigris and one of the great cities of the ancient Near East; became the capital of the Neo-Assyrian Empire|Place|Archaeological Site
+Memphis|-3100|-525|29.8481|31.2540|Ancient Egyptian city near the apex of the Nile Delta and an important political and religious center during much of ancient Egyptian history|Place|Archaeological Site
+Thebes|-3200|-30|25.7188|32.6573|Major ancient Egyptian city on the Nile and an important religious and political center, particularly during the Middle and New Kingdoms; associated with the temples of Karnak and Luxor|Place|Archaeological Site
+Mohenjo-daro|-2500|-1900|27.3294|68.1386|Major urban center of the Indus Valley Civilization, known for sophisticated city planning, drainage systems, standardized construction, and extensive archaeological remains|Place|Archaeological Site
+Harappa|-2600|-1900|30.6300|72.8700|Major urban center of the Indus Valley Civilization in the Punjab region, associated with planned streets, standardized weights, craft production, and long-distance trade|Place|Archaeological Site
+Taxila|-600|500|33.7463|72.8397|Ancient city and major center of learning, trade, and Buddhist culture in Gandhara; influenced by Persian, Greek, Mauryan, and Kushan traditions|Place|Archaeological Site
+Nalanda Mahavihara (Nalanda University)|427|1200|25.1367|85.4437|Ancient Buddhist monastic and scholarly center in Bihar that attracted students and scholars from across South and Central Asia; one of the most important centers of learning in ancient India|Institution|University
+University of Oxford|1096|2026|51.7548|-1.2544|Historic university in Oxford, England, with teaching and scholarly traditions dating to the late 11th century; one of the world's oldest universities|Institution|University
+Charaka Samhita|-200|200|27.1767|78.0081|Foundational Sanskrit text of Ayurveda traditionally associated with Charaka; discusses medicine, diagnosis, therapeutics, anatomy, and principles of healthy living|Literature|Medical Text
+Sushruta Samhita|-600|-300|25.3176|82.9739|Foundational Sanskrit Ayurvedic text traditionally associated with Sushruta; particularly important for early surgical knowledge, anatomy, and medical practice|Literature|Medical Text
+Ashtanga Sangraha|600|800|20.5937|78.9629|Classical Sanskrit Ayurvedic compendium traditionally attributed to Vagbhata, synthesizing major branches of Ayurveda and medical knowledge|Literature|Medical Text
+Elamite Civilization|-2700|-539|32.1896|48.2578|Ancient civilization of southwestern Iran centered in the region of Elam, with Susa as a major political and cultural center; it interacted extensively with Mesopotamian civilizations and later came under Persian rule|Civilization|Civilization
+Kingdom of Kush|-1070|350|16.9387|33.9700|Ancient Nubian kingdom south of Egypt centered along the Nile, with major capitals at Napata and later Meroe; developed its own political, religious, artistic, and ironworking traditions|Civilization|Nubian
+Kingdom of Aksum|-100|940|14.1300|39.0100|Major ancient kingdom centered in northern Ethiopia and Eritrea, known for long-distance trade, monumental stelae, coinage, and its role in the early history of Christianity in the Horn of Africa|Civilization|Aksumite
+Nok Culture|-1500|500|9.6000|8.5000|Archaeological culture of central Nigeria known for sophisticated terracotta sculptures, ironworking, and early complex settlement patterns|Culture|Archaeological Culture
+Great Zimbabwe|1100|1450|-20.2670|30.9330|Major stone-built settlement in southern Africa and center of a powerful regional society connected to long-distance trade across southeastern Africa and the Indian Ocean|Place|Archaeological Site
+Kingdom of Zimbabwe|1100|1450|-20.2670|30.9330|Medieval southern African state associated with Great Zimbabwe and extensive regional and long-distance trade|Polity|Kingdom
+Mali Empire|1235|1645|12.6500|-8.0000|West African empire that controlled major trans-Saharan trade routes and became renowned for gold, scholarship, and cities such as Timbuktu|Polity|Empire
+Songhai Empire|1464|1591|16.7666|-3.0026|Major West African empire centered along the Niger River whose cities including Gao and Timbuktu became important centers of commerce and Islamic scholarship|Polity|Empire
+Scythian Culture|-800|300|47.0000|40.0000|Nomadic and semi-nomadic peoples of the Eurasian steppe known from archaeological remains and classical accounts for horse culture, warfare, trade, and distinctive animal-style art|Culture|Steppe Culture
+Sarmatian Culture|-500|400|47.0000|40.0000|Iranian-speaking nomadic peoples of the Eurasian steppe who succeeded and interacted with Scythian groups across the Black Sea and Central Eurasian regions|Culture|Steppe Culture
+Kievan Rus'|882|1240|50.4501|30.5234|Medieval East Slavic polity centered on Kyiv that connected the Baltic and Black Sea through trade and political networks and became an important predecessor to later Eastern European states|Polity|Principality
+Kyiv|482|1240|50.4501|30.5234|Major medieval East European city and political center of Kievan Rus' situated on the Dnieper River|Place|Historical City
+Novgorod|859|1478|58.5213|31.2755|Major medieval East Slavic city and political center known for trade, crafts, literacy, and its connections to the Baltic and wider European world|Place|Historical City
+Golden Horde|1240|1502|47.2360|39.7203|Major Mongol successor state controlling extensive territories across the Eurasian steppe and influencing the political development of Eastern Europe and Russia|Polity|Empire
+Al-Qarawiyyin|859|2026|34.0181|-5.0078|Historic center of Islamic learning in Fez, Morocco, traditionally founded in 859 CE; developed into an important center for religious studies, law, language, and scholarship|Institution|University
+Al-Azhar|970|2026|30.0444|31.2628|Historic Islamic institution of learning in Cairo founded in the 10th century and later developed into one of the world's major centers of Islamic scholarship|Institution|University
+University of Bologna|1088|2026|44.4949|11.3426|University in Bologna traditionally dated to 1088 and widely regarded as the oldest continuously operating university in the Western world|Institution|University
+University of Paris|1150|1793|48.8566|2.3522|Medieval university that developed around the cathedral schools of Paris and became one of medieval Europe's major centers of theology, philosophy, and scholarship|Institution|University
+University of Cambridge|1209|2026|52.2053|0.1218|English university founded by scholars who migrated from Oxford in the early 13th century and became one of the world's leading centers of scholarship|Institution|University
+Polynesian Settlement of Aotearoa|1250|1400|-41.3000|174.7800|Settlement of Aotearoa New Zealand by Polynesian voyagers who developed distinctive Māori societies adapted to the islands' environments|Culture|Polynesian Culture
+Māori Culture|1250|2026|-40.9006|174.8860|Indigenous Polynesian culture of Aotearoa New Zealand that developed following Polynesian settlement and includes distinctive traditions of navigation, agriculture, art, warfare, social organization, and oral history|Culture|Indigenous Culture
+Wairau Bar|1288|1400|-41.5000|173.9500|One of the oldest known archaeological sites in New Zealand, containing early Polynesian settlement remains, burials, and artifacts associated with the first generations of settlers|Place|Archaeological Site
+Budj Bim Cultural Landscape|-6000|1788|-38.0570|141.8960|Cultural landscape of the Gunditjmara people in southeastern Australia, known for an extensive system of aquaculture channels and wetlands used to manage and harvest kooyang, or short-finned eel|Place|Cultural Landscape
+Lake Mungo|-40000|-1|-33.7430|143.0520|Archaeological landscape in New South Wales containing ancient human remains and evidence of Aboriginal occupation; the remains known as Mungo Man and Mungo Lady are among Australia's most significant archaeological discoveries|Place|Archaeological Site
+Madjedbebe|-63000|-1|-12.5210|132.8940|Rock shelter in northern Australia containing archaeological evidence of Aboriginal occupation dating to at least 65,000 years ago, including stone tools, grinding stones, and ochre|Place|Archaeological Site
+Aboriginal Australian Cultures|-65000|1788|-25.0000|134.0000|Diverse Indigenous cultures and societies with continuous histories extending for at least 65,000 years, including sophisticated ecological knowledge, oral traditions, astronomy, art, trade networks, and land-management practices|Culture|Indigenous Culture
+Mughal Empire|1526|1857|28.6139|77.2090|Early modern empire founded by Babur after the First Battle of Panipat; at its height it controlled much of the Indian subcontinent and became a major center of administration, architecture, art, literature, and culture|Polity|Empire
+Yellow River / Early Chinese Civilization|-2000|-771|34.2667|108.9480|Early civilization centered on the Yellow River valley and associated with the development of complex societies, bronze technology, writing, and early Chinese states|Civilization|Ancient China
+Shang Dynasty|-1600|-1046|34.2667|108.9480|Bronze Age Chinese dynasty known for bronze technology, urban centers, ancestor worship, and the earliest securely attested Chinese writing|Polity|Dynasty
+Zhou Dynasty|-1046|-256|34.2667|108.9480|Long-lived Chinese dynasty associated with the Mandate of Heaven, major philosophical developments, and the political transformation of ancient China|Polity|Dynasty
+Qin Dynasty|-221|-206|34.2667|108.9480|Short-lived dynasty that unified the major Chinese states and established the first centralized imperial state of China|Polity|Dynasty
+Han Dynasty|-206|220|34.2667|108.9480|Major Chinese dynasty whose period saw expansion, development of the Silk Road, technological innovation, and consolidation of imperial institutions|Polity|Dynasty
+Tang Dynasty|618|907|34.2667|108.9480|Powerful Chinese dynasty and major center of trade, culture, Buddhism, literature, and international exchange across East and Central Asia|Polity|Dynasty
+Song Dynasty|960|1279|31.2304|121.4737|Chinese dynasty associated with major developments in commerce, urbanization, printing, navigation, science, and technology|Polity|Dynasty
+Ming Dynasty|1368|1644|39.9042|116.4074|Chinese dynasty known for maritime expeditions, cultural production, centralized administration, and major architectural projects|Polity|Dynasty
+Qing Dynasty|1644|1912|39.9042|116.4074|Last imperial dynasty of China, founded by the Manchus and governing a large multiethnic empire|Polity|Dynasty
+Jōmon Culture|-14000|-300|35.6762|139.6503|Ancient culture of the Japanese archipelago known for early sedentary settlements, distinctive cord-marked pottery, fishing, hunting, gathering, and complex material culture|Culture|Archaeological Culture
+Yayoi Culture|-300|300|35.6762|139.6503|Culture associated with the introduction and expansion of wet-rice agriculture, metallurgy, and new settlement patterns in the Japanese archipelago|Culture|Archaeological Culture
+Kofun Period|250|538|34.6851|135.8050|Period of early Japanese state formation characterized by large keyhole-shaped burial mounds and the emergence of powerful ruling elites|Culture|Archaeological Culture
+Heian Period|794|1185|35.0116|135.7681|Period when Kyoto became the imperial capital and Japanese court culture, literature, and Buddhism flourished|Culture|Historical Period
+Gojoseon|-2333|-108|37.5665|126.9780|Ancient Korean polity traditionally regarded as an early Korean state; historical dates and the legendary foundation tradition are debated|Polity|Ancient Kingdom
+Three Kingdoms of Korea|-57|668|37.5665|126.9780|Period dominated by the Korean kingdoms of Goguryeo, Baekje, and Silla, characterized by state formation, warfare, Buddhism, and cultural exchange with China and Japan|Polity|Kingdoms
+Silla|-57|935|35.8562|128.6014|Korean kingdom that eventually unified most of the Korean Peninsula and became an important center of Buddhist art and culture|Polity|Kingdom
+Goryeo|918|1392|37.5665|126.9780|Korean dynasty from which the modern name Korea derives, known for Buddhism, celadon ceramics, printing, and international trade|Polity|Dynasty
+Joseon|1392|1897|37.5665|126.9780|Long-lived Korean dynasty characterized by Confucian state institutions, scholarship, literature, and major scientific and technological developments|Polity|Dynasty
+Funan|100|550|10.6000|104.0000|Early Southeast Asian polity centered in the Mekong region and deeply involved in maritime and overland trade between India, China, and Southeast Asia|Polity|Kingdom
+Srivijaya|650|1377|-2.9909|104.7566|Maritime Southeast Asian empire centered on Sumatra that controlled important Indian Ocean and Southeast Asian trade routes and became a major Buddhist center|Polity|Empire
+Khmer Empire|802|1431|13.4125|103.8670|Powerful Southeast Asian empire centered in Cambodia and famous for Angkor, monumental architecture, irrigation systems, and Hindu and Buddhist traditions|Polity|Empire
+Majapahit|1293|1527|-7.7956|110.3695|Powerful Javanese kingdom that developed extensive political and commercial influence across the Indonesian archipelago|Polity|Kingdom
+Pagan Kingdom|849|1297|21.1717|94.8585|Early Burmese kingdom centered at Bagan and known for extensive Buddhist temple construction and cultural development|Polity|Kingdom
+Kingdom of Kush|-1070|350|16.9387|33.9700|Ancient Nubian kingdom centered along the Nile south of Egypt, with major capitals at Napata and Meroë|Polity|Kingdom
+Nok Culture|-1500|500|9.6000|8.5000|Archaeological culture of central Nigeria known for sophisticated terracotta sculpture and early ironworking|Culture|Archaeological Culture
+Kingdom of Aksum|-100|940|14.1300|39.0100|Major kingdom of the Horn of Africa known for long-distance trade, monumental stelae, coinage, and early Christianity|Polity|Kingdom
+Great Zimbabwe|1100|1450|-20.2670|30.9330|Major stone-built center of southern Africa associated with regional trade networks extending toward the Indian Ocean|Place|Archaeological Site
+Mali Empire|1235|1645|12.6500|-8.0000|West African empire that controlled major trans-Saharan trade routes and became renowned for gold, scholarship, and cities such as Timbuktu|Polity|Empire
+Songhai Empire|1464|1591|16.7666|-3.0026|Major West African empire centered along the Niger River and associated with commerce, Islamic scholarship, Gao, and Timbuktu|Polity|Empire
+Sogdian Civilization|-600|1000|39.6542|66.9597|Iranian-speaking civilization centered in Central Asia whose merchants played a major role in Silk Road trade connecting China, India, Persia, and the Mediterranean world|Civilization|Central Asian
+Parthian Empire|-247|224|36.2600|59.6168|Iranian empire that controlled important territories and trade routes between the Mediterranean, Persia, Central Asia, and South Asia|Polity|Empire
+Sasanian Empire|224|651|29.6103|52.5311|Persian empire that became a major political and cultural power between the Roman world, Central Asia, and India|Polity|Empire
+Göktürk Khaganate|552|744|47.0000|70.0000|Major Turkic steppe empire that controlled extensive territories across Central Asia and played an important role in Silk Road networks|Polity|Khaganate
+Timurid Empire|1370|1507|39.6542|66.9597|Central Asian empire founded by Timur and centered initially around Transoxiana, becoming an important center of Persianate culture, architecture, mathematics, and astronomy|Polity|Empire
+Samarkand|-500|2026|39.6542|66.9597|Major Silk Road city in Central Asia and an important center of trade, scholarship, and culture|Place|Historical City
+Bukhara|-500|2026|39.7681|64.4556|Historic Silk Road city known for commerce, Islamic scholarship, and cultural exchange|Place|Historical City
+Chang'an|-200|907|34.3416|108.9398|Capital of several Chinese dynasties and eastern terminus of major Silk Road routes|Place|Historical City
+Zhang Qian|-164|-113|34.2667|108.9480|Han dynasty diplomat and explorer whose journeys to Central Asia helped establish the foundations of the Silk Road trade networks|Person|Explorer
+Silk Road|-130|1453|41.2995|69.2401|Network of overland and maritime trade routes linking China, Central Asia, India, Persia, the Middle East, and the Mediterranean, facilitating exchange of goods, religions, technologies, languages, and ideas across Eurasia|Trade Network|Trade Route
+Caral|-3000|-1800|-10.8925|-77.5208|Major settlement of the Norte Chico civilization in coastal Peru and one of the oldest known urban centers in the Americas|Place|Archaeological Site
+Chavín Culture|-900|-200|-9.5944|-77.1783|Early Andean cultural tradition centered around Chavín de Huántar, known for monumental architecture, distinctive stone sculpture, religious iconography, and long-distance cultural influence|Culture|Archaeological Culture
+Chavín de Huántar|-900|-200|-9.5944|-77.1783|Major ceremonial center in the Peruvian Andes associated with the Chavín cultural tradition|Place|Archaeological Site
+Nazca Culture|-100|800|-14.7350|-75.1300|Ancient Andean culture of southern Peru known for elaborate ceramics, textiles, monumental geoglyphs known as the Nazca Lines, and sophisticated irrigation systems|Culture|Archaeological Culture
+Moche Civilization|100|700|-7.8450|-79.1469|Powerful civilization of northern coastal Peru known for monumental pyramids, sophisticated irrigation, metallurgy, ceramics, and detailed representations of everyday and ritual life|Civilization|Andean Civilization
+Tiwanaku Civilization|500|1000|-16.5547|-68.6733|Major highland Andean civilization centered near Lake Titicaca, known for monumental architecture, agricultural innovation, long-distance exchange, and regional political influence|Civilization|Andean Civilization
+Wari Civilization|500|1000|-13.1631|-72.5450|Major highland civilization centered in the Peruvian Andes that developed extensive administrative centers, road networks, agricultural systems, and regional political influence|Civilization|Andean Civilization
+Chimú Kingdom|900|1470|-8.1100|-79.0750|Powerful coastal Andean kingdom centered in northern Peru and known for irrigation, craft production, and the enormous urban center of Chan Chan|Polity|Kingdom
+Chan Chan|900|1470|-8.1090|-79.0750|Massive adobe urban center and capital of the Chimú Kingdom, regarded as one of the largest pre-Columbian cities in South America|Place|Archaeological Site
+Inca Empire|1438|1533|-13.5167|-71.9781|Largest empire in pre-Columbian South America, centered in the Andes and connected by an extensive road system; incorporated diverse peoples across Peru, Bolivia, Ecuador, Chile, Argentina, and Colombia|Polity|Empire
+Cusco|1200|1533|-13.5167|-71.9781|Capital and principal political and religious center of the Inca Empire|Place|Historical City
+Machu Picchu|1450|1572|-13.1631|-72.5450|Inca royal and ceremonial site in the Andes known for monumental stone architecture and its dramatic mountain setting|Place|Archaeological Site
+Mapuche Culture|1000|2026|-38.7359|-72.5904|Indigenous culture of south-central Chile and adjacent Argentina known for strong political autonomy, agriculture, craft traditions, and prolonged resistance to Inca and later Spanish expansion|Culture|Indigenous Culture
+Rapa Nui Culture|1200|2026|-27.1127|-109.3497|Polynesian culture that developed on Rapa Nui, famous for monumental moai statues and sophisticated maritime settlement traditions|Culture|Polynesian Culture
+Rapa Nui|1200|2026|-27.1127|-109.3497|Remote Polynesian island settlement associated with the Rapa Nui people and renowned for its monumental moai statues|Place|Cultural Landscape
+Qhapaq Ñan|1400|1533|-13.5167|-71.9781|Extensive Inca road network connecting administrative centers, settlements, agricultural regions, and military routes across the Andes; one of the largest pre-Columbian transportation systems in the Americas|Trade Network|Road Network
+Holy Roman Empire|962|1806|50.1109|8.6821|Long-lasting political entity in Central Europe encompassing numerous kingdoms, duchies, principalities, free cities, and ecclesiastical territories; closely associated with German-speaking Central Europe|Polity|Empire
+Martin Luther|1483|1546|51.3400|12.3747|German theologian whose writings and reform movement helped initiate the Protestant Reformation in Europe|Person|Religious Reformer
+Protestant Reformation|1517|1648|51.3400|12.3747|Religious reform movement that transformed Western Christianity and European politics, beginning with Martin Luther's challenge to Catholic Church practices|Movement|Religion
+Habsburg Monarchy|1282|1918|48.2082|16.3738|Dynastic realm centered in Austria whose rulers became major political powers in Central Europe and later controlled a vast multinational empire|Polity|Dynasty
+Vienna|1000|2026|48.2082|16.3738|Major Central European city that became the political and cultural center of the Habsburg monarchy and later the Austrian Empire|Place|Historical City
+Old Swiss Confederacy|1291|1798|46.9480|7.4474|Confederation of alpine cantons that developed into the political foundation of modern Switzerland|Polity|Confederation
+Finnish Iron Age Culture|500|1300|60.1699|24.9384|Archaeological cultures of the Finnish region during the Iron Age, characterized by agriculture, trade, metalworking, and interaction with Scandinavian, Baltic, and eastern networks|Culture|Archaeological Culture
+Kingdom of Sweden|800|1809|59.3293|18.0686|Scandinavian kingdom whose political expansion incorporated Finland into the Swedish realm for several centuries|Polity|Kingdom
+Grand Duchy of Finland|1809|1917|60.1699|24.9384|Autonomous grand duchy of the Russian Empire that formed the political framework preceding modern Finnish independence|Polity|Grand Duchy
+Kalevala|1835|1849|60.1699|24.9384|Finnish national epic compiled by Elias Lönnrot from traditional oral poetry and folklore, becoming a major work of Finnish cultural identity|Text|Epic
+Viking Age|793|1066|59.3293|18.0686|Period of Scandinavian maritime expansion, trade, settlement, exploration, and raiding across Europe and the North Atlantic, with connections extending to the British Isles, Eastern Europe, Byzantium, and beyond|Culture|Historical Period
+Thracian Civilization|-1200|46|42.0000|25.0000|Ancient Indo-European peoples of southeastern Europe known for warrior traditions, metalworking, art, and interactions with Greek and Roman civilizations|Civilization|Thracian
+Thracian Kingdom|470|-46|42.1354|24.7453|Major Thracian political entity centered in the Balkans and known for interactions and conflicts with Greek colonies, Macedon, and Rome|Polity|Kingdom
+Gaul|-500|486|48.8566|2.3522|Historical region of Western Europe corresponding broadly to modern France, Belgium, Luxembourg, and parts of neighboring countries, inhabited by numerous Celtic and later Romanized peoples|Region|Celtic
+Vercingetorix|-82|-46|45.7047|3.2266|Arvernian leader who united several Gallic tribes in a major revolt against Julius Caesar during the Gallic Wars|Person|Military Leader
+Gallic Wars|-58|-50|46.2276|2.2137|Series of Roman military campaigns led by Julius Caesar that resulted in the conquest of Gaul and fundamentally changed the political landscape of Western Europe|Event|War
+Battle of Alesia|-52|-52|47.5361|4.5000|Decisive battle of the Gallic Wars in which Julius Caesar defeated Vercingetorix and the forces defending the Gallic stronghold of Alesia|Event|Battle
+Celtic Civilization|-800|400|48.0000|10.0000|Collection of related Iron Age peoples and cultures spread across much of Western and Central Europe, known for distinctive art, metalworking, languages, and social traditions|Culture|Celtic
+Hastinapura|-600|-300|29.1600|78.0000|Ancient settlement in the Ganges-Yamuna region traditionally identified as the capital of the Kuru dynasty in the Mahabharata; archaeological remains attest to an ancient settlement at the site|Place|Archaeological Site
+Kurukshetra|-600|2026|29.9695|76.8783|Ancient region in northern India and major Hindu pilgrimage center traditionally associated with the Mahabharata and the setting of the Kurukshetra war|Place|Religious Center
+Dwarka|-500|2026|22.2442|68.9685|Ancient and modern coastal city in Gujarat and an important Hindu pilgrimage center; traditionally identified with the city of Dvaraka described in Krishna traditions, while the historical identification remains debated|Place|Religious Center
+Ayodhya|-600|2026|26.7990|82.2040|Ancient city associated with the Kosala region and later an important Hindu religious center; traditionally identified with the birthplace of Rama in the Ramayana tradition|Place|Historical City
+Malwa Culture|-1700|-1400|23.2599|77.4126|Chalcolithic archaeological culture of central India associated with farming communities, distinctive pottery, settlements, and early metalworking|Culture|Archaeological Culture
+Maheshwar|-1500|2026|22.1750|75.5870|Ancient settlement on the Narmada River with important Chalcolithic archaeological remains and later significance as a historic and religious center|Place|Historical City
+Kalidasa|375|450|23.1765|75.7885|One of the greatest Sanskrit poets and dramatists, traditionally associated with the Gupta period; works include Abhijnanashakuntalam, Meghaduta, Raghuvamsha, and Kumarasambhava|Person|Writer
+Abhijnanashakuntalam|375|450|23.1765|75.7885|Classical Sanskrit drama attributed to Kalidasa, telling the story of Shakuntala and Dushyanta and regarded as one of the masterpieces of Sanskrit literature|Text|Drama
+Meghaduta|375|450|23.1765|75.7885|Sanskrit lyric poem attributed to Kalidasa in which an exiled yaksha sends a message to his beloved through a passing cloud|Text|Poetry
+Raghuvamsha|375|450|23.1765|75.7885|Sanskrit mahakavya attributed to Kalidasa describing the legendary lineage of the Raghu dynasty|Text|Epic Poetry
+Kumarasambhava|375|450|23.1765|75.7885|Sanskrit epic poem traditionally attributed to Kalidasa describing the birth of Kumara and the union of Shiva and Parvati|Text|Epic Poetry
+Roman Britain|-43|410|51.5074|-0.1278|Roman province established after the conquest of Britain, with roads, towns, forts, villas, and military frontiers transforming much of southern Britain|Polity|Province
+Anglo-Saxon England|450|1066|51.5074|-0.1278|Period of English history following the Roman withdrawal, characterized by Anglo-Saxon kingdoms, migration, Christianization, and the eventual formation of a unified English kingdom|Polity|Kingdoms
+Kingdom of England|927|1707|51.5074|-0.1278|Medieval and early modern kingdom that developed from the Anglo-Saxon kingdoms and became a major European political power|Polity|Kingdom
+Norman Conquest|1066|1071|51.0660|-1.7970|Norman conquest of England following William the Conqueror's victory at the Battle of Hastings, transforming English political, social, and cultural institutions|Event|Conquest
+William Shakespeare|1564|1616|52.1917|-1.7076|English playwright and poet whose works became foundational to English literature and global dramatic tradition|Person|Writer
+Pictish Kingdoms|300|900|56.0000|-4.0000|Collection of northern British kingdoms associated with the Picts, known from archaeology, early medieval writings, and distinctive symbol stones|Polity|Kingdoms
+Kingdom of Scotland|843|1707|55.9533|-3.1883|Independent kingdom that developed in northern Britain and maintained a distinct political and cultural tradition before joining with England in 1707|Polity|Kingdom
+Robert Burns|1759|1796|55.4800|-4.6200|Scottish poet and lyricist whose works became central to Scottish literary and cultural identity|Person|Writer
+Celtic Ireland|-500|500|53.3498|-6.2603|Iron Age and early historic cultural traditions of Ireland characterized by Celtic languages, tribal societies, distinctive art, mythology, and oral traditions|Culture|Celtic
+Early Christian Ireland|400|800|53.3498|-6.2603|Period when Christianity became established in Ireland and monasteries became major centers of learning, manuscript production, art, and scholarship|Culture|Religious Culture
+Saint Patrick|385|461|53.3498|-6.2603|Christian missionary traditionally credited with playing a major role in the Christianization of Ireland; associated with the development of early Irish Christianity|Person|Saint
+Book of Kells|800|825|53.3498|-6.2603|Illuminated manuscript containing the four Gospels and regarded as a masterpiece of Insular art, associated with the monastic tradition of Ireland and Britain|Text|Manuscript
+Stonehenge|-3000|-1600|51.1789|-1.8262|Monumental prehistoric stone circle in southern Britain constructed in multiple phases during the Neolithic and Bronze Age|Place|Monument
+Ptolemy|100|170|30.0444|31.2357|Greco-Egyptian astronomer, mathematician, and geographer whose works including the Almagest and Geographia profoundly influenced astronomy and geographic knowledge for centuries|Person|Scientist
+Galileo Galilei|1564|1642|43.7696|11.2558|Italian astronomer and physicist whose telescopic observations and advocacy of heliocentrism transformed early modern astronomy and helped establish modern scientific methods|Person|Scientist
+Plato|-428|-348|37.9838|23.7275|Ancient Greek philosopher and student of Socrates whose dialogues and Academy profoundly influenced Western philosophy, political thought, and education|Person|Philosopher
+Socrates|-470|-399|37.9838|23.7275|Ancient Greek philosopher whose method of questioning and examination became foundational to Western philosophical traditions; known primarily through accounts by his students and contemporaries|Person|Philosopher
+Almagest|150|150|30.0444|31.2357|Major astronomical treatise by Ptolemy presenting a mathematical model of the heavens that dominated astronomy for many centuries|Text|Science
+Geographia|150|150|30.0444|31.2357|Geographical work attributed to Ptolemy that compiled coordinates and geographic knowledge of the known world and influenced mapmaking for centuries|Text|Geography
+Republic|-380|-370|37.9838|23.7275|Philosophical dialogue attributed to Plato exploring justice, politics, education, knowledge, and the ideal state|Text|Philosophy
+Sidereus Nuncius|1610|1610|43.7696|11.2558|Galileo's astronomical publication describing telescopic observations including the moons of Jupiter, lunar surface features, and numerous stars, contributing to the transformation of early modern astronomy|Text|Science
+Isaac Newton|1643|1727|52.4553|-0.9426|English mathematician, physicist, astronomer, and natural philosopher whose work on motion, gravity, optics, and mathematics profoundly shaped modern science|Person|Scientist
+Philosophiæ Naturalis Principia Mathematica|1687|1687|52.2053|0.1218|Major scientific work by Isaac Newton establishing the laws of motion and universal gravitation and laying foundations for classical mechanics|Text|Science
+Vesuvius Eruption of 79 CE|79|79|40.8214|14.4265|Major eruption of Mount Vesuvius that buried Pompeii, Herculaneum, and surrounding settlements under ash and pyroclastic material|Event|Natural Disaster
+Thera Eruption|-1600|-1600|36.4040|25.3960|Massive volcanic eruption on the island of Thera, modern Santorini, that affected the Aegean region and is associated with major environmental and cultural disruption|Event|Natural Disaster
+Antonine Plague|165|180|41.9028|12.4964|Major epidemic that spread through the Roman Empire during the reigns of Marcus Aurelius and Lucius Verus, causing substantial mortality and social disruption|Event|Epidemic
+Plague of Justinian|541|549|41.0082|28.9784|Major pandemic that spread through the Byzantine Empire and the Mediterranean world during the reign of Emperor Justinian I|Event|Epidemic
+Black Death|1347|1353|41.0082|28.9784|Pandemic that spread across Europe, Asia, and North Africa, causing catastrophic mortality and profound demographic and economic changes|Event|Epidemic
+Antioch Earthquake|526|526|36.2021|36.1600|Major earthquake that devastated Antioch and surrounding regions of the Byzantine Near East and caused extensive loss of life|Event|Earthquake
+Lisbon Earthquake|1755|1755|38.7223|-9.1393|Major earthquake followed by tsunami and fires that devastated Lisbon and surrounding areas and had profound effects on European intellectual and political thought|Event|Earthquake
+Khmer Civilization|500|1500|13.4125|103.8670|Major Southeast Asian civilization centered in the Mekong region and associated with the development of powerful Khmer states, monumental architecture, Hinduism, and Buddhism|Civilization|Southeast Asian
+Khmer Empire|802|1431|13.4125|103.8670|Powerful Southeast Asian empire centered at Angkor that controlled large parts of mainland Southeast Asia and became renowned for monumental architecture, irrigation, and urban development|Empire|Southeast Asian
+Angkor|800|1431|13.4125|103.8670|Vast Khmer urban and religious complex that served as the political and cultural center of the Khmer Empire and contained monumental temples, reservoirs, roads, and settlements|Place|Archaeological Site
+Angkor Wat|1113|1150|13.4125|103.8670|Massive temple complex commissioned during the reign of Suryavarman II and originally dedicated to Vishnu; one of the greatest architectural achievements of the Khmer civilization|Place|Monument
+Jayavarman II|770|835|13.4125|103.8670|Founder of the Khmer Empire traditionally associated with the establishment of an independent Khmer kingdom and the political consolidation of territories in mainland Southeast Asia|Person|Ruler
+Suryavarman II|1113|1150|13.4125|103.8670|Khmer ruler under whom Angkor Wat was constructed and the Khmer Empire reached significant territorial and political prominence|Person|Ruler
+Jayavarman VII|1181|1218|13.4125|103.8670|Major Khmer ruler who expanded the empire and promoted Mahayana Buddhism, sponsoring extensive temple, road, hospital, and infrastructure construction|Person|Ruler
+Angkor Thom|1181|1431|13.4450|103.8560|Fortified royal city established under Jayavarman VII that became one of the major political and religious centers of the Khmer Empire|Place|Historical City
+Babylonian Exile|-586|-539|32.5364|44.4209|Period following the Babylonian conquest of Jerusalem in which many Judeans were deported to Babylon; the exile became a formative period in Jewish religious and cultural history|Event|Religious History
+Second Temple Period|-516|70|31.7780|35.2354|Period of Jewish history beginning with the rebuilding of the Second Temple in Jerusalem and ending with its destruction by Rome in 70 CE|Period|Jewish History
+Destruction of the Second Temple|70|70|31.7780|35.2354|Roman destruction of the Second Temple in Jerusalem during the First Jewish–Roman War, a major turning point in Jewish history|Event|War
+Bar Kokhba Revolt|132|136|31.7683|35.2137|Major Jewish revolt against Roman rule in Judea led by Simon Bar Kokhba|Event|Rebellion
+Maimonides|1138|1204|31.7683|35.2137|Jewish philosopher, physician, and legal scholar whose writings became foundational to medieval Jewish thought and law|Person|Philosopher
+Hebrew Bible|-700|100|31.7683|35.2137|Collection of Jewish sacred texts forming the scriptural foundation of Judaism and containing diverse literary, historical, legal, prophetic, and poetic traditions|Text|Religious Text
+Muhammad|570|632|21.4225|39.8262|Arab religious and political leader traditionally regarded as the prophet and founder of Islam; his preaching in Mecca and Medina established the foundations of the early Muslim community|Person|Religious Leader
+Mecca|500|2026|21.4225|39.8262|Major Arabian city and Islamic holy site associated with the Kaaba and the birthplace of Muhammad|Place|Religious Center
+Medina|622|2026|24.4672|39.6112|City in western Arabia where Muhammad established the early Muslim community after the Hijra and where the first Islamic polity developed|Place|Religious Center
+Hijra|622|622|24.4672|39.6112|Migration of Muhammad and his followers from Mecca to Medina, marking the beginning of the Islamic calendar and the formation of the early Muslim community in Medina|Event|Religious History
+Early Islamic Caliphate|632|661|24.4672|39.6112|Early Muslim political community that expanded rapidly across Arabia and into the Levant, Egypt, Persia, and surrounding regions after the death of Muhammad|Polity|Caliphate
+Mount Mazama Eruption|-5700|-5700|42.9446|-122.1090|Catastrophic volcanic eruption that destroyed much of Mount Mazama and caused the summit to collapse, forming the Crater Lake caldera; volcanic ash and pumice were deposited across a vast area of the Pacific Northwest|Event|Natural Disaster
+Crater Lake| -5700|2026|42.9446|-122.1090|Deep volcanic lake in Oregon occupying the caldera formed by the catastrophic eruption and collapse of Mount Mazama approximately 7,700 years ago|Place|Natural Feature
+Rigveda|-1500|-1200|27.1767|78.0081|Oldest of the four Vedas and a foundational collection of Sanskrit hymns composed and transmitted orally during the early Vedic period|Text|Religious Text
+Yajurveda|-1200|-800|27.1767|78.0081|Vedic collection containing ritual formulas and prose instructions used in the performance of Vedic sacrifices|Text|Religious Text
+Samaveda|-1200|-800|27.1767|78.0081|Vedic collection of verses largely derived from the Rigveda and arranged for ritual chanting and musical recitation|Text|Religious Text
+Atharvaveda|-1200|-800|27.1767|78.0081|Vedic collection containing hymns, prayers, spells, healing traditions, domestic rituals, and reflections on everyday life|Text|Religious Text
+Vedic Cultural Region|-1500|-500|29.0000|77.0000|Region associated with the development and transmission of early Vedic traditions in northern South Asia|Region|Religious Culture
+Great Pyramid of Giza|-2560|-2540|29.9792|31.1342|Great pyramid built as the monumental tomb of Pharaoh Khufu and the only one of the Seven Wonders of the Ancient World still substantially standing|Place|Monument
+Hanging Gardens of Babylon|-600|-500|32.5420|44.4210|Legendary gardens traditionally attributed to Babylon and described in ancient accounts; their historical existence and exact location remain uncertain|Place|Monument
+Statue of Zeus at Olympia|-435|-430|37.6383|21.6300|Colossal seated statue of Zeus created by the sculptor Phidias at the sanctuary of Olympia in Greece|Place|Monument
+Temple of Artemis at Ephesus|-550|-356|37.9497|27.3639|Monumental temple dedicated to Artemis at Ephesus in Asia Minor and one of the most celebrated temples of the ancient Greek world|Place|Monument
+Mausoleum at Halicarnassus|-353|-350|37.0379|27.4241|Monumental tomb built at Halicarnassus for Mausolus, ruler of Caria, and his wife Artemisia II|Place|Monument
+Colossus of Rhodes|-292|-226|36.4510|28.2278|Colossal bronze statue dedicated to the sun god Helios at Rhodes, constructed after the city successfully resisted a siege|Place|Monument
+Lighthouse of Alexandria|-300|1303|31.2001|29.9187|Ancient lighthouse constructed on Pharos Island to guide ships into Alexandria harbor and one of the tallest structures of the ancient world|Place|Monument
+Leaning Tower of Pisa|1173|1372|43.7230|10.3966|Medieval bell tower of Pisa Cathedral whose foundation and subsequent construction caused the famous tilt; construction occurred in several stages over nearly two centuries|Place|Monument
+Pisa|1000|2026|43.7228|10.4017|Historic Tuscan city that became an important medieval maritime republic and later a center of education and science, associated with Galileo Galilei and the University of Pisa|Place|Historical City
+Galileo's Pisa Experiments|1589|1592|43.7228|10.4017|Period associated with Galileo's early teaching and investigations in Pisa, where he developed ideas that contributed to the study of motion and mechanics|Event|Science
+Charles Darwin|1809|1882|50.0880|-5.2430|English naturalist whose theory of evolution by natural selection transformed biology and the scientific understanding of the diversity of life|Person|Scientist
+On the Origin of Species|1859|1859|51.5074|-0.1278|Charles Darwin's landmark work presenting evidence for evolution and proposing natural selection as a major mechanism of evolutionary change|Text|Science
+Gregor Mendel|1822|1884|49.1951|16.6068|Augustinian friar and scientist whose experiments with pea plants established fundamental principles of heredity and helped lay the foundation for modern genetics|Person|Scientist
+Experiments on Plant Hybridization|1865|1866|49.1951|16.6068|Gregor Mendel's experimental work on pea plants identifying predictable patterns of inheritance that became foundational to genetics|Text|Science
+Vatican City|1929|2026|41.9029|12.4534|Sovereign city-state established by the Lateran Treaty in 1929 as the territorial seat of the Holy See and the smallest sovereign state in the world|Polity|City-State
+Papacy|100|2026|41.9029|12.4534|Institution of the bishop of Rome that developed into the central leadership of the Roman Catholic Church and played a major role in European religious and political history|Institution|Christianity
+St. Peter's Basilica|1506|1626|41.9022|12.4536|Major Renaissance and Baroque basilica constructed over the traditional site of Saint Peter's tomb and one of the most important architectural and religious landmarks of Christianity|Place|Monument
+Vatican Museums|1506|2026|41.9065|12.4536|Major collection of art and antiquities assembled by the papacy, containing important works from classical antiquity, Renaissance art, and later periods|Institution|Museum
+Indian Ocean Tsunami|2004|2004|3.3167|95.6167|Massive undersea earthquake off the coast of Sumatra generated a tsunami that devastated coastal communities around the Indian Ocean and caused catastrophic loss of life across multiple countries|Event|Natural Disaster
+Tohoku Tsunami|2011|2011|38.3228|142.3690|Tsunami generated by the magnitude 9.0 Tohoku earthquake that devastated coastal northeastern Japan and contributed to the Fukushima nuclear disaster|Event|Natural Disaster
+Lisbon Tsunami|1755|1755|36.5000|-10.0000|Tsunami generated by the 1755 Lisbon earthquake that struck the coasts of Portugal, Spain, Morocco, and parts of the Atlantic|Event|Natural Disaster
+Storegga Tsunami|-6200|-6200|62.0000|5.0000|Massive prehistoric tsunami generated by submarine landslides off the coast of Norway that affected coastlines across the North Atlantic and contributed to major environmental changes in prehistoric northern Europe|Event|Natural Disaster
+COVID-19 Pandemic|2019|2023|30.0000|114.0000|Global pandemic caused by the SARS-CoV-2 virus, first identified in Wuhan, China, leading to widespread illness, mortality, travel restrictions, lockdowns, economic disruption, and major changes in public health practices|Event|Epidemic

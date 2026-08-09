@@ -8,7 +8,8 @@ from src.ui import (
     display_year_selector, 
     display_year_title, 
     display_region_selector, 
-    display_topic_selector,
+    display_type_selector,
+    display_category_selector,
     display_map
 )
 
@@ -26,11 +27,20 @@ selected_year = display_year_selector()
 display_year_title(selected_year)
 
 #  2. Add a dropdown selection menu to the Streamlit sidebar
-selected_topic = display_topic_selector(df)
+selected_types = display_type_selector(df)
+selected_categories = display_category_selector(
+    df,
+    selected_types
+)
 
 selected_region = display_region_selector(REGIONS)
 
-filtered_df = filter_data(df, selected_year, selected_topic)
+filtered_df = filter_data(
+    df=df, 
+    selected_year=selected_year, 
+    selected_types=selected_types, 
+    selected_categories=selected_categories
+)
 
 # 7. Render the map in the browser
 region = REGIONS[selected_region]
