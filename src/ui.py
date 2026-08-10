@@ -151,7 +151,7 @@ def render_about():
         The goal is to explore history not simply as a sequence of dates, but as an interconnected geographic and temporal story.
 
         **Created and maintained by Sridhar Ramachandran**
-        Independent project · 2026
+        ### Independent project · 2026
         This is an independent personal project created for educational, exploratory, and research purposes.
 
         ### Data & Sources
