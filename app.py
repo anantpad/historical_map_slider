@@ -10,11 +10,15 @@ from src.ui import (
     display_region_selector, 
     display_type_selector,
     display_category_selector,
-    display_map
+    display_map,
+    render_about,
+    render_footer
 )
 
 # 1. Set up a clean, full-width webpage layout
 configure_page()
+render_about()
+render_footer()
 
 # 2. Your Historical Database (Add as many rows/years as you want)
 df = load_data()

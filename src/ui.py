@@ -26,7 +26,7 @@ def configure_page():
         unsafe_allow_html=True
     )
     st.title("Interactive Historical Atlas")
-
+    
 def display_year_selector():
     """
     Display the historical year slider and return the selected year.
@@ -115,6 +115,24 @@ def display_region_selector(regions):
         "Choose Map Focus Region:",
         list(regions.keys())
     )
+
+with st.sidebar:
+    with st.expander("About this project"):
+        st.markdown(
+            """
+            ### Historical Atlas
+
+            Historical Atlas is an interactive data visualization
+            project exploring historical geography through maps,
+            data, and Python.
+
+            **Author:** Sridhar Ramachandran
+
+            **Built with:** Python · Streamlit · Pandas · folium
+
+            © 2026 Sridhar Ramachandran
+            """
+        )
 def display_map(m):
     """
     Render the Folium map in Streamlit.
@@ -123,4 +141,37 @@ def display_map(m):
         m,
         width="100%",
         height=600
+    )
+
+def render_about():
+    with st.sidebar.expander("About this project", expanded=False):
+        st.markdown("""
+        ### About the Project
+        Historical Atlas is an interactive exploration of world history through time and geography. The project brings together people, civilizations, cultures, places, texts, institutions, and historical events and visualizes them on an interactive map and timeline.
+        The goal is to explore history not simply as a sequence of dates, but as an interconnected geographic and temporal story.
+
+        **Created and maintained by Sridhar Ramachandran**
+        Independent project · 2026
+        This is an independent personal project created for educational, exploratory, and research purposes.
+
+        ### Data & Sources
+
+        The data is curated from historical/reference sources and dates for ancient figures and traditions may be approximate or debated.
+        """)
+
+def render_footer():
+    st.markdown(
+        """
+        <div style="
+            text-align: center;
+            color: #888;
+            font-size: 0.8rem;
+            padding-top: 2rem;
+            padding-bottom: 1rem;
+            border-top: 1px solid rgba(128,128,128,0.2);
+        ">
+            © 2026 Sridhar Ramachandran · Historical Atlas
+        </div>
+        """,
+        unsafe_allow_html=True
     )
